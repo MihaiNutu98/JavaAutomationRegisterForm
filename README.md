@@ -1,1 +1,1 @@
-# JavaAutomationRegisterForm
+# java-automation-register-form
